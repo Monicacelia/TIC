@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PÁGINA WEB DE NOMBRE ALUMNO DE INICIO</title>
+
+
+</head>
+
+<body>
+
+<header>
+
+<h1>TRANSPORTES</h1>
+
+</header>
+
+<main>
+
+<div class="section">
+<p>En las ofertas y los packs que ofrecemos no esta incluido el transporte, pero damos aquí algunos que están disponibles en justo las fechas y los días de ida y vuelta.</p>
+
+</div>
+<header>
+ <h1>Medios de Transporte hacia las Bahamas</h1><img src="https://st5.depositphotos.com/37530512/66061/v/950/depositphotos_660616696-stock-illustration-bahamas-islands-highly-detailed-physical.jpg" alt="Descripción de la imagen" width="150" height="120">
+</header>
+    
+<main>
+  <div class="option">
+    <table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Opción 1: Vuelo en avión</th>
+      <th>Opción 2: Crucero</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Ida:</strong><br>
+        Origen: Cualquier ciudad principal con vuelos internacionales (ej. Ciudad de México, Miami, Nueva York).<br>
+        Destino: Aeropuerto Internacional Lynden Pindling en Nassau, Bahamas.<br>
+        Duración: 1 a 4 horas dependiendo del origen (de Miami a Nassau ~1 hora).<br>
+        Frecuencia: Vuelos directos diarios desde muchas ciudades de EE. UU. y algunas internacionales.
+      </td>
+      <td>
+        <strong>Ida:</strong><br>
+        Origen: Puerto cercano como Miami, Fort Lauderdale o Puerto Cañaveral (Florida, EE. UU.).<br>
+        Destino: Puerto de Nassau o islas cercanas como Freeport o las Islas Exumas.<br>
+        Duración: Entre 3 a 5 días de ida y vuelta.<br>
+        Frecuencia: Varios cruceros a la semana desde puertos en Florida.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Vuelta:</strong><br>
+        Regreso desde Nassau o alguna otra isla cercana a tu puerto de origen.<br>
+        Duración: Similar a la ida.
+      </td>
+      <td>
+        <strong>Vuelta:</strong><br>
+        Regreso al puerto de origen tras el recorrido.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Precio aproximado:</strong><br>
+        Entre $200 y $600 USD dependiendo de la temporada.
+      </td>
+      <td>
+        <strong>Precio aproximado:</strong><br>
+        Entre $200 y $800 USD por persona, dependiendo del tipo de camarote y la línea de cruceros.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+        </div>
+    <header>
+        <h1>Medio de Transporte hacia París</h1><img src="https://previews.123rf.com/images/xrrr/xrrr1005/xrrr100500001/6950183-un-pin-de-mapa-rojo-apuntando-a-par%C3%ADs-francia.jpg" alt="Descripción de la imagen" width="150" height="120">
+    </header>
+      <div class="option">
+            <h2>Vuelo en avión 
+            <h3>Ida:</h3>
+            <ul>
+                <li><strong>Origen:</strong> Principales ciudades internacionales (por ejemplo, Ciudad de México, Nueva York, Madrid).</li>
+                <li><strong>Destino:</strong> Aeropuerto Charles de Gaulle, París, Francia.</li>
+                <li><strong>Duración:</strong> Aproximadamente 9 a 11 horas desde América y 2 horas desde ciudades europeas cercanas.</li>
+                <li><strong>Frecuencia:</strong> Vuelos diarios desde muchas ciudades principales.</li>
+            </ul>
+
+            <h3>Vuelta:</h3>
+            <ul>
+                <li>Regreso desde París al mismo aeropuerto o a otro destino europeo conectado.</li>
+                <li><strong>Duración:</strong> Similar a la ida.</li>
+            </ul>
+
+            <h3>Precio aproximado:</h3>
+            <p>Entre $400 y $1,200 USD dependiendo de la temporada.</p>
+        </div>
+      <div class="option">
+            <header>
+        <h1>Medio de Transporte hacia Luxemburgo</h1><img src="https://www.mapas-del-mundo.net/mapas/europa/luxemburgo/grande-mapa-de-ubicacion-de-luxemburgo-preview.jpg" alt="Descripción de la imagen" width="150" height="120">
+    </header>
+            <h2>Vuelo en avión </h2>
+            <h3>Ida:</h3>
+            <ul>
+                <li><strong>Origen:</strong> Principales ciudades europeas como Bruselas, París, Frankfurt.</li>
+                <li><strong>Destino:</strong> Aeropuerto de Luxemburgo-Findel.</li>
+                <li><strong>Duración:</strong> Entre 30 minutos a 2 horas dependiendo del origen.</li>
+                <li><strong>Frecuencia:</strong> Vuelos directos frecuentes desde ciudades cercanas en Europa.</li>
+            </ul>
+
+            <h3>Vuelta:</h3>
+            <ul>
+                <li>Regreso al mismo aeropuerto o hacia otra ciudad europea.</li>
+                <li><strong>Duración:</strong> Similar a la ida.</li>
+            </ul>
+
+            <h3>Precio aproximado:</h3>
+            <p>Entre $100 y $500 USD dependiendo de la ciudad de origen.</p>
+        </div>
+            <header>
+        <h1>Medio de Transporte hacia Wellington</h1><img src="https://img.freepik.com/vector-premium/mapa-nueva-zelanda-capital-wellington-ciudades-mas-importantes-fronteras-nacionales_667085-605.jpg" alt="Descripción de la imagen" width="150" height="120">
+ </header>
+ <div class="option">
+            <h2>Vuelo en avión </h2>
+            <h3>Ida:</h3>
+            <ul>
+                <li><strong>Origen:</strong> Principales ciudades internacionales como Los Ángeles, Sídney, Auckland.</li>
+                <li><strong>Destino:</strong> Aeropuerto Internacional de Wellington, Nueva Zelanda.</li>
+                <li><strong>Duración:</strong> Aproximadamente 12 a 14 horas desde América y 3 horas desde Sídney.</li>
+                <li><strong>Frecuencia:</strong> Vuelos directos desde Sídney y Auckland, conexiones desde otras ciudades.</li>
+            </ul>
+
+            <h3>Vuelta:</h3>
+            <ul>
+                <li>Regreso desde Wellington a tu ciudad de origen o a otro destino de Nueva Zelanda.</li>
+                <li><strong>Duración:</strong> Similar a la ida.</li>
+            </ul>
+
+            <h3>Precio aproximado:</h3>
+            <p>Entre $700 y $1,500 USD dependiendo de la temporada.</p>
+        </div>
+         <header>
+        <h1>Medios de Transporte hacia Santorini</h1><img src="https://dondeesta.net/wp-content/uploads/2021/05/%C2%BFDonde-esta-Santorini.png" alt="Descripción de la imagen" width="150" height="100">
+ </header><div class="option">
+            <table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Opción 1: Vuelo en avión</th>
+      <th>Opción 2: Ferry desde Atenas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Ida:</strong><br>
+        Origen: Ciudades principales en Europa como Atenas, Roma, Londres, etc.<br>
+        Destino: Aeropuerto Nacional de Santorini (Thira), Grecia.<br>
+        Duración: Aproximadamente 1 hora desde Atenas y entre 2 a 3 horas desde otras ciudades europeas cercanas.<br>
+        Frecuencia: Vuelos directos frecuentes, especialmente en temporada alta (abril a octubre).
+      </td>
+      <td>
+        <strong>Ida:</strong><br>
+        Origen: Puerto de Piraeus en Atenas, Grecia.<br>
+        Destino: Puerto de Athinios, Santorini.<br>
+        Duración: Entre 5 a 8 horas, dependiendo del tipo de ferry (rápido o estándar).<br>
+        Frecuencia: Ferries diarios, especialmente en temporada alta (verano).
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Vuelta:</strong><br>
+        Regreso desde Santorini a tu ciudad de origen o a otra ciudad griega conectada como Atenas.<br>
+        Duración: Similar a la ida.
+      </td>
+      <td>
+        <strong>Vuelta:</strong><br>
+        Regreso desde el puerto de Athinios en Santorini al puerto de Piraeus en Atenas.<br>
+        Duración: Similar a la ida.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Precio aproximado:</strong><br>
+        Entre $150 y $500 USD, dependiendo de la temporada y la ciudad de origen.
+      </td>
+      <td>
+        <strong>Precio aproximado:</strong><br>
+        Entre $40 y $80 USD por persona para un ferry estándar, o más para ferries rápidos y con más comodidades.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</main>
+
+
+<footer>
+
+<p>IG: viajes_ensueno_mc</p>
+<p>Teléfono: 677859324</p>
+</footer>
+
+</body>
+
+</html>
